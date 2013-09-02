@@ -3,7 +3,7 @@
 #include <conio.h>
 
 using namespace std;
-
+//Hello, this is whj's testing.
 int SwapInt32(int p);
 float SwapFloat(float p);
 int IsVAXOrder(void);
